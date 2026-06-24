@@ -28,6 +28,8 @@ why we need to inject service inside it
 8.I want to run only 3 middlewares and block the other 2 middleware.Use: app.Run() after 3rd middleware.
 9.why order needed in middleware. what happens if we have authorization after authentication.
 10.Throw ex vs throw
+11.Serialization vs Deserialization
+12.What is DbCOntext
 
 DB :
 1.What is offset in pagination in sql query
